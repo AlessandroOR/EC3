@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@id/theboysAffiliationsFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_personaje"
+        android:title="Personajes" />
+
+    <item
+        android:id="@id/theboysListFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_fav"
+        android:title="Favoritos" />
+
+    <item
+        android:id="@id/theboysEpisodesFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_episodes"
+        android:title="Info" />
+</menu>

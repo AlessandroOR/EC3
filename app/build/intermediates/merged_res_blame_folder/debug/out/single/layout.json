@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.0\\com.alessandroorozco.ec3.app-mergeDebugResources-51:\\layout\\fragment_theboys_favorite.xml",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.0\\com.alessandroorozco.ec3.app-main-54:\\layout\\fragment_theboys_favorite.xml"
+    },
+    {
+        "merged": "com.alessandroorozco.ec3.app-mergeDebugResources-51:/layout/fragment_theboys_affiliations.xml",
+        "source": "com.alessandroorozco.ec3.app-main-54:/layout/fragment_theboys_affiliations.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.0\\com.alessandroorozco.ec3.app-mergeDebugResources-51:\\layout\\fragment_theboys_list_view_model.xml",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.0\\com.alessandroorozco.ec3.app-main-54:\\layout\\fragment_theboys_list_view_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.0\\com.alessandroorozco.ec3.app-mergeDebugResources-51:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.0\\com.alessandroorozco.ec3.app-main-54:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.0\\com.alessandroorozco.ec3.app-mergeDebugResources-51:\\layout\\fragment_theboys_list.xml",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.0\\com.alessandroorozco.ec3.app-main-54:\\layout\\fragment_theboys_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.0\\com.alessandroorozco.ec3.app-mergeDebugResources-51:\\layout\\fragment_theboys_info.xml",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.0\\com.alessandroorozco.ec3.app-main-54:\\layout\\fragment_theboys_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.0\\com.alessandroorozco.ec3.app-mergeDebugResources-51:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.0\\com.alessandroorozco.ec3.app-main-54:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.0\\com.alessandroorozco.ec3.app-mergeDebugResources-51:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.0\\com.alessandroorozco.ec3.app-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.alessandroorozco.ec3.app-mergeDebugResources-51:/layout/fragment_theboys_episodes.xml",
+        "source": "com.alessandroorozco.ec3.app-main-54:/layout/fragment_theboys_episodes.xml"
+    },
+    {
+        "merged": "com.alessandroorozco.ec3.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.alessandroorozco.ec3.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.alessandroorozco.ec3.app-mergeDebugResources-51:/layout/fragment_theboys_list.xml",
+        "source": "com.alessandroorozco.ec3.app-main-54:/layout/fragment_theboys_list.xml"
+    }
+]

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/theboys_navigation"
+    app:startDestination="@id/theboysListFragment">
+
+    <fragment
+        android:id="@+id/theboysEpisodesFragment"
+        android:name="com.alessandroorozco.ec3.fragments.TheboysEpisodesFragment"
+        android:label="fragment_theboys_favorite"
+        tools:layout="@layout/fragment_theboys_episodes" >
+        <action
+            android:id="@+id/action_theboysEpisodesFragment_to_theboysAffiliationsFragment"
+            app:destination="@id/theboysAffiliationsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/theboysListFragment"
+        android:name="com.alessandroorozco.ec3.fragments.TheboysListFragment"
+        android:label="fragment_theboys_list"
+        tools:layout="@layout/fragment_theboys_list" >
+        <action
+            android:id="@+id/action_theboysListFragment_to_theboysAffiliationsFragment"
+            app:destination="@id/theboysAffiliationsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/theboysAffiliationsFragment"
+        android:name="com.alessandroorozco.ec3.fragments.TheboysAffiliationsFragment"
+        android:label="fragment_theboys_affiliations"
+        tools:layout="@layout/fragment_theboys_affiliations" />
+</navigation>
